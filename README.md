@@ -10,4 +10,4 @@ EfficientNet-B0 transfer learning for fundus image grading (0-4 severity).
 - Best val_loss: 0.2563 (epoch 8/10)
 - License: MIT | Dataset: CC BY-SA 4.0
 ## Bias Analysis
-- Class 0 (Normal) is 7x more frequent than Class 4 (PDR)
+- Class 0 (Normal) is 6.1 more frequent than Class 4 (PDR)
