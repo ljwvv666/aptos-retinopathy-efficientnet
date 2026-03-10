@@ -8,3 +8,4 @@ EfficientNet-B0 transfer learning for fundus image grading (0-4 severity).
 - EfficientNet-B0 (pretrained on ImageNet)
 - MSELoss + Adam optimizer + StepLR scheduler
 - Best val_loss: 0.2563 (epoch 8/10)
+- License: MIT | Dataset: CC BY-SA 4.0
